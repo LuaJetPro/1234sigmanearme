@@ -12,7 +12,7 @@ _G.KeyInput = "string"
 
 function MakeScriptHub()
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaJetPro/LumanCMDhub12341/refs/heads/main/Luman%20Hub.lua?token=GHSAT0AAAAAACVSA3KSPEVQL7ELAMZDJGZGZ3IAP6A"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaJetPro/456nobetasnearme/refs/heads/main/Luman%20Hub.lua"))()
 
 end
 
